@@ -12,5 +12,3 @@ I'm a full-stack software engineer with a background in technical recruiting. In
 - 📫 How to reach me: [Connect with me on LinkedIn!](https://www.linkedin.com/in/jannyzhao/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I grew up in the Bay Area majority of my life, so feel free to ask me on recommendations on... anything!
-
-![Janny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jannyzhao&show_icons=true&hide_border=true)
